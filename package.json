@@ -15,6 +15,7 @@
     "configure:auth:devhub": "sfdx hardis:project:configure:auth --devhub",
     "package:version:create": "sfdx hardis:package:version:create",
     "package:version:list": "sfdx hardis:package:version:list",
-    "package:install": "sfdx hardis:package:install"
+    "package:install": "sfdx hardis:package:install",
+    "data:tree:export": "sfdx hardis:data:tree:export"
   }
 }

@@ -6,7 +6,7 @@
         {
             "path": "sfdx-source/apex-common",
             "package": "fflibApexCommonHardis",
-            "versionName": "ver 0.1",
+            "versionName": "ver 0.2",
             "versionNumber": "0.1.0.NEXT",
             "default": true,
             "dependencies": [
@@ -20,6 +20,7 @@
         "fflibApexMocksHardis": "0Ho1n000000blO9CAI",
         "fflibApexMocksHardis@0.1.0-1": "04t1n000001pGjzAAE",
         "fflibApexCommonHardis": "0Ho1n000000blOECAY",
-        "fflibApexCommonHardis@0.1.0-1": "04t1n000001pGk4AAE"
+        "fflibApexCommonHardis@0.1.0-1": "04t1n000001pGk4AAE",
+        "fflibApexCommonHardis@0.1.0-3": "04t1n000001pGkYAAU"
     }
 }
