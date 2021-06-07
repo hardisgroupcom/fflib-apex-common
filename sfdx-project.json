@@ -11,7 +11,7 @@
             "default": true,
             "dependencies": [
                 {
-                    "package": "fflibApexMocksHardis@0.1.0-1"
+                    "package": "fflibApexMocksHardis@0.1.0-3"
                 }
             ]
         }
@@ -19,8 +19,11 @@
     "packageAliases": {
         "fflibApexMocksHardis": "0Ho1n000000blO9CAI",
         "fflibApexMocksHardis@0.1.0-1": "04t1n000001pGjzAAE",
+        "fflibApexMocksHardis@0.1.0-3": "04t1n000001pGroAAE",
         "fflibApexCommonHardis": "0Ho1n000000blOECAY",
         "fflibApexCommonHardis@0.1.0-1": "04t1n000001pGk4AAE",
-        "fflibApexCommonHardis@0.1.0-3": "04t1n000001pGkYAAU"
+        "fflibApexCommonHardis@0.1.0-3": "04t1n000001pGkYAAU",
+        "fflibApexCommonHardis@0.1.0-4": "04t1n000001pGreAAE",
+        "fflibApexCommonHardis@0.1.0-5": "04t1n000001pGrtAAE"
     }
 }
